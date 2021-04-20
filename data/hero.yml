@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, I am Amanda (she/her/hers)
+content: >
+  # I am  a Community Health Educator
+
+  I double as a tutor and a babysitter.
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/amanda-grad.jpg
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
