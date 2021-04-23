@@ -10,7 +10,7 @@ service:
       #### Health Education
 
       I work with medical clinics and institutions, and perform outreach to patients who may be at risk of HIV. I educate patients on the benefits of PrEP, and help them make independent, informed decisions.
-    image: images/service/ui-ux.svg
+    image: images/service/web.svg
   - content: >
       #### ACT / SAT Tutoring
 
@@ -22,7 +22,7 @@ service:
       I design and conduct user-centered research, following IRB-approved best practices. I interview participants, code emails and videos, and encapsulate perspectives from numerous dimensions.
     image: images/service/creative.svg
   - content: >
-      #### Mentor
+      #### Mentoring
 
       I provide tutoring, advising, and mentoring services to elementary and middle school students. I help students navigate academic and social resources, and offer individualized support.
     image: images/service/branding.svg
