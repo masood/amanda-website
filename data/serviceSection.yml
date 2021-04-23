@@ -1,35 +1,30 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: My Work
 title: >
-  ## Creative Services
+  ## Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  I navigate a diverse set of projects, and contribute in various roles depending on the project at hand.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Health Education
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I work with medical clinics and institutions, and perform outreach to patients who may be at risk of HIV. I educate patients on the benefits of PrEP, and help them make independent, informed decisions.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### ACT / SAT Tutoring
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+      I help high-school students prepare for their English and Math ACT / SAT tests. I offer weekly sessions, and design teaching structures around individual needs, laying an emphasis on areas requiring additional guidance.
+    image: images/service/ui-ux.svg
   - content: >
-      #### Creative Design 
+      #### User Research 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I design and conduct user-centered research, following IRB-approved best practices. I interview participants, code emails and videos, and encapsulate perspectives from numerous dimensions.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Mentor
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I provide tutoring, advising, and mentoring services to elementary and middle school students. I help students navigate academic and social resources, and offer individualized support.
     image: images/service/branding.svg
   - content: >
       #### UI/UX Design
