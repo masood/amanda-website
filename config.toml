@@ -34,9 +34,9 @@ weight = 5
 #weight = 7
 
 # Sitemap Menu
-#[[menu.sitemap]]
-#name = "About me"
-#url = "#about"
+[[menu.sitemap]]
+name = "Back to the Top"
+url = "#about"
 #weight = 1
 #[[menu.sitemap]]
 #name = "Skills"
